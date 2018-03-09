@@ -1,0 +1,27 @@
+body{
+background-color: pink;
+font-size: 20px;
+font-family: sans-serif;
+text-align: center;
+color: white
+}
+
+h1{
+  font-size: 40px;
+  color: darksalmon;
+  font-family: bebas neue;
+  text-align: center;
+}
+h2{
+  font-size: 30px;
+  color: beige;
+  font-family: bebas neue;
+  text-align: center;
+}
+
+h3{
+  font-size: 20px;
+  color: white;
+  font-family: bebas neue;
+  text-align: center;
+}

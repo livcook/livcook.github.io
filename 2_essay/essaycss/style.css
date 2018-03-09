@@ -1,0 +1,39 @@
+body
+{
+  background-color: peachpuff;
+  width: 800px;
+  margin-left: 100px;
+  margin-top: 80px;
+  margin-right: 40px;
+}
+p
+{
+  font-size: 14px;
+font-family: sans-serif;
+color: red;
+padding-left: 40px
+
+}
+h1
+{
+  text-transform: uppercase;
+  font-family: bebas;
+  color: pink
+}
+blockquote
+{
+  font-size: 14px;
+font-family: sans-serif;
+color: red;
+padding-left: 40px;
+border-color: : pink;
+
+}
+
+ul
+{
+  font-size: 14px;
+font-family: sans-serif;
+color: red;
+padding-left: 40px
+}
