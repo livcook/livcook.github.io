@@ -1,0 +1,62 @@
+body{
+
+font-family: arial;
+font-weight: bold;
+background-color: black;
+color:white;
+
+}
+
+a{
+
+color: red;
+}
+
+h1{
+
+
+
+}
+
+
+p{
+
+
+
+}
+
+
+.row{
+border-bottom: 1px solid white;
+overflow: hidden;
+
+
+
+}
+
+.col{
+float: left;
+
+
+}
+
+.col1of2{
+  width: 50%;
+
+}
+
+.col1of3{
+  width: 33.333%;
+
+
+}
+
+.bg_red{
+  background-color: red;
+
+}
+
+.bg_blue{
+  background-color: blue;
+
+}

@@ -1,0 +1,84 @@
+body {
+background-color: salmon;
+text-align: center;
+font-family: helvetica;
+font-size:15px;
+}
+
+/* MY HEADER FONT AND STYLE */
+
+.header {
+  position: fixed;
+  bottom:3px;
+  text-align: center;
+  font-size: 6vw;
+  text-transform: uppercase;
+  font-family: Industry Inc, helvetica, arial;
+  color: pink;
+  letter-spacing: -0.05em;
+  width:100%;
+  text-align: center;
+  z-index: 2;
+  text-shadow: 5px 5px red;
+}
+
+/* MY NAVIGATION FONT AND STYLE */
+
+.nav {
+width:100%;
+position: fixed;
+top:0px;
+left:0px;
+z-index:2;
+padding-top: 5px;
+}
+
+/* MY BUTTON FONT AND STYLE */
+
+.button {
+  font-family: helvetica;
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 5px;
+  display: inline-block;
+  margin: 2px;
+  font-size: 14px;
+  color: red;
+  background-color: pink;
+  cursor: pointer;
+}
+
+/* SPECIAL BUTTONS */
+
+.b-showall {
+
+  color:red;
+}
+
+/* MY BASE WIDTH FOR ALL ITEMS */
+
+.item {
+  width:25%;
+  height: 25vw;
+}
+
+/* STOP IMAGES FROM GOING OUTSIDE THEIR WIDTH */
+
+.item img {
+  max-width:100%;
+  padding: 10px;
+}
+
+/* HELPER CLASSES FOR JS TO HIDE AND SHOW */
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.border {
+  border: 6px solid red;
+}
