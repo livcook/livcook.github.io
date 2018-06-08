@@ -166,7 +166,35 @@ $('.e-angry').mouseleave(function() {
               $('.e-horn').mouseleave(function() {
                   $('.p-horn').removeClass('p-show');
             });
+            $('.e-control').mouseenter(function() {
+                $('.p-control').addClass('p-show');
+              });
 
-                    
+            $('.e-control').mouseleave(function() {
+                $('.p-control').removeClass('p-show');
+          });
+          $('.e-history').mouseenter(function() {
+              $('.p-history').addClass('p-show');
+            });
+
+          $('.e-history').mouseleave(function() {
+              $('.p-history').removeClass('p-show');
+        });
+        $('.e-tech').mouseenter(function() {
+            $('.p-tech').addClass('p-show');
+          });
+
+        $('.e-tech').mouseleave(function() {
+            $('.p-tech').removeClass('p-show');
+      });
+      $('.e-data').mouseenter(function() {
+          $('.p-data').addClass('p-show');
+        });
+
+      $('.e-data').mouseleave(function() {
+          $('.p-data').removeClass('p-show');
+    });
+        
+
 
   });
